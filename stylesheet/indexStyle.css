@@ -16,3 +16,18 @@ text-align: center;
     width: 200px;
     padding: 10px;
 }
+
+a {
+    text-decoration: none; /* remove underlining on anchor tags */
+    color: rgb(43, 99, 62); /* pick the color you want */
+   }
+   .assign img {
+    padding: 10px; /* change this from margin to padding */
+    border: 2px solid rgb(55, 115, 69); /* try dashed, dotted */
+    border-radius: 20px;
+   }
+
+a:hover {
+    text-decoration: none; /* remove underlining on anchor tags */
+    color: rgb(12, 70, 29); /* pick the color you want */
+   }
