@@ -1,16 +1,20 @@
 body {
     background:rgb(204, 255, 193);
     font-family: Arial, Helvetica, sans-serif;
+    display:flex;
     }
 h1 {
 color: rgb(65, 88, 59);
 text-align: center;
 }
 .assign {
-    display: flex;
     padding: 10px;
     margin: 10px;
     background: rgb(236, 255, 232);
+    width: 20%;
+    box-shadow: 8px 8px rgb(31, 84, 47);
+    border-radius: 10px;
+    display: block;
     }
 .assign img {
     width: 200px;
